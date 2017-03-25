@@ -1,0 +1,111 @@
+
+body {
+	background-color:white;
+	margin: 0;
+
+	
+}
+
+
+
+.wrapper {
+	margin: 0 auto;
+	width: 100%;
+}
+
+
+
+}
+
+.header .logo {
+	background-color: orange;
+	display: inline-block;
+	padding: 15px 50px;
+	font-family:'Roboto', sans-serif;
+	font-weight: bold;
+
+	
+}
+
+
+.navigation {
+	background-color: orange;
+	
+    
+
+
+}
+
+.navigation  ul {
+	margin: 0;
+	padding-right:0;
+
+
+	
+}
+
+.navigation  li {
+	display: inline-block;
+	padding:10px 35px;
+	text-transform: uppercase;
+	float: right;
+
+}
+
+.navigation  a {
+	color: #fff;
+	text-decoration: none;
+	
+	
+	
+}
+
+.sidebar {
+	background-color: white;
+	float: right;
+	height: 600px;
+	width:50%;
+	padding:12px;
+
+}
+
+.sidebar p{
+	font-size:45px;
+	font-family: 'Roboto', sans-serif;
+	color: #ffb3b3;
+	padding: 25px 20px;
+
+}
+
+
+
+
+.sidebar button{
+	background-color: orange;
+	text-transform: uppercase;
+	border: none;
+	padding: 25px 70px;
+	display: inline-block;
+	font-size: 18px;
+
+	
+}
+
+
+
+
+.input{
+	float: right;
+	padding: 2px;
+}
+
+
+
+/** SITE FOOTER **/
+.footer {
+	clear: both;
+	background-color: #80e5ff;
+	font-size: 14px;
+	padding: 20px ;
+}
+
